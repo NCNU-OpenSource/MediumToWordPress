@@ -1,4 +1,4 @@
-# crawl Medium data
+# 把 Medium 弄成 WordPress 的形狀
 
 
 ## Concept Development
