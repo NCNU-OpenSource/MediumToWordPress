@@ -186,16 +186,15 @@ div_place = str(div_place)
 :::info
 [邪魔歪道還是苦口良藥？Functional CSS 經驗分享](https://blog.techbridge.cc/2019/01/26/functional-css/)
 :::
-<!--## Knowledge from Lecture
-在做這個專題的時候，有查到什麼知識 -->
+
 ## Installation
-<!-- 套件安裝 -->
+
 - `pip install requests`
 - `pip install bs4`
 - `pip install selenium`
 - `pip install webdriver-manager`
 ## Usage
-<!-- 套件的用法 -->
+
 1. ![](https://i.imgur.com/BFqwc8z.png)
     輸入你的 medium 網址與你自己的暱稱 ( 暱稱拜託避免中文
 2. 等他
@@ -211,10 +210,13 @@ div_place = str(div_place)
 9. ![](https://i.imgur.com/kjAxM1G.png)
     成功
 ## Job Assignment
-<!-- 工作分配 -->
+
 ![](https://i.imgur.com/FNpBS9b.png)
+陳柏瑋 45%
+歐哲安 45%
+BlueT 10% (建議分)
 ## References
-<!-- 參考資料 -->
+
 - [期末 project 的架構](https://github.com/NCNU-OpenSource/final-project-readme-template/tree/master/template)
 - [網路爬蟲 Day3 - html 檔的取得及常見問題(續)](https://ithelp.ithome.com.tw/articles/10191165)
 - [Medium 爬蟲進化史](https://blog.huli.tw/2019/07/12/medium-crawler/)
