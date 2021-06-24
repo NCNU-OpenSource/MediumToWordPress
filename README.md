@@ -212,8 +212,8 @@ div_place = str(div_place)
 ## Job Assignment
 
 ![](https://i.imgur.com/FNpBS9b.png)
-陳柏瑋 45%
-歐哲安 45%
+陳柏瑋 45% 轉換
+歐哲安 45% 爬蟲
 BlueT 10% (建議分)
 ## References
 
