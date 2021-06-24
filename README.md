@@ -1,13 +1,11 @@
 # crawl Medium data
-[TOC]
+
 
 ## Concept Development
-<!-- 概念發想 -->
 - 想要從一個類似部落格的地方，將自己全部的文章內容轉移到另一個自架網站上
 - 嘗試從 Medium 轉移到 Wordpress
 - 將 Medium 的所有文章轉成 Wordpress 格式，並匯入 Wordpress 進行架設
 ## Implementation Resources
-<!-- 各種需要的資源， sth you require to support successful implementation -->
 - python 3
 - python standard library：
     - bs4
@@ -19,7 +17,6 @@
     - random
     - flask
 ## Existing Library/Software
-<!--有沒有人跟我們做類似的東西-->
 曾經[有人做過](https://medium.com/rar-design/%E5%B0%8F%E5%AD%A9%E5%AD%90%E6%89%8D%E8%A6%81%E5%81%9A%E9%81%B8%E6%93%87-%E5%BE%9E-medium-%E6%90%AC%E5%AE%B6%E5%88%B0-wordpress-%E7%B6%B2%E7%AB%99%E5%BE%9E%E4%BB%8A%E4%BB%A5%E5%BE%8C%E6%96%87%E7%AB%A0%E5%90%8C%E6%AD%A5%E7%99%BC-7dcfbb61fd9c)，可惜因為改版不能用了。
 
 
