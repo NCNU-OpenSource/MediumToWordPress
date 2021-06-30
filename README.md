@@ -229,3 +229,5 @@ BlueT 10% (建議分)
 無頭騎士
 ![](https://i.imgur.com/3xtD7K8.png)
 :::
+## Thanks
+[lulala88](https://github.com/lulala88)
